@@ -6,5 +6,5 @@ I started my journey into iOS development earlier this year when I had an idea f
 Well, I will continue to try and document my experience along the way.
 
 ##Courses
-**1. Treehouse** -- _Completed:_ the iOS swift course
-2. Udemy -- _In Progress:_ [The Complete iOS 9 Developer Course](https://www.udemy.com/the-complete-ios-9-developer-course/)
+* **Treehouse** -- _Completed:_ the iOS swift course
+* **Udemy --** _In Progress:_ [The Complete iOS 9 Developer Course](https://www.udemy.com/the-complete-ios-9-developer-course/)
