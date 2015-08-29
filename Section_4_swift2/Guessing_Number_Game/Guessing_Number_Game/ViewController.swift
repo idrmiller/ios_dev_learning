@@ -17,9 +17,9 @@ class ViewController: UIViewController {
     @IBAction func userSubmit(sender: UIButton) {
         // I am purposefully not incuding a test case to veryify the input is a number.
         let userInput:Int = Int(userGuess.text!)!
-        let appNumber:Int = Int(arc4random_uniform(4))
-        print(appNumber)
-        print(userGuess)
+        let appNumber:Int = Int(arc4random_uniform(6))
+        print("The app random number selected: \(appNumber)")
+        print("The user number selected was: \(userGuess)")
         
         if userInput == appNumber {
             magicResults.text = "Wow. You are RIGHT!!!" } else if userInput >= 6 || userInput < 0 {
